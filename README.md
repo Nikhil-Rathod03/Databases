@@ -1,5 +1,5 @@
 # MYSQL
- 1. Retrieving Data From a Single Table(60m)
+ 1. Retrieving Data From a Single Table
     - The SELECT Statement
     - The SELECT Clause
     - The WHERE Clause
